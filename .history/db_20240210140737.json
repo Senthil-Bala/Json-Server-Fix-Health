@@ -1,0 +1,17 @@
+{
+    "doctors": [
+      { "id": 1, "name": "Dr. Smith", "expertise": "Orthopedics", "city": "New York" },
+      { "id": 2, "name": "Dr. Johnson", "expertise": "Cardiology", "city": "Los Angeles" },
+      { "id": 3, "name": "Dr. Brown", "expertise": "Dermatology", "city": "Chicago" },
+      { "id": 4, "name": "Dr. Davis", "expertise": "Neurology", "city": "San Francisco" },
+      { "id": 5, "name": "Dr. Wilson", "expertise": "Pediatrics", "city": "Miami" },
+      { "id": 6, "name": "Dr. Moore", "expertise": "Gastroenterology", "city": "Houston" },
+      { "id": 7, "name": "Dr. Taylor", "expertise": "Ophthalmology", "city": "Seattle" },
+      { "id": 8, "name": "Dr. Anderson", "expertise": "Rheumatology", "city": "Denver" },
+      { "id": 9, "name": "Dr. Garcia", "expertise": "Uarology", "city": "Phoenix" },
+      { "id": 10, "name": "Dr. Martinez", "expertise": "Psychiatry", "city": "Atlanta" },
+      { "id": 11, "name": "Dr. Jackson", "expertise": "Oncology", "city": "Philadelphia" },
+      { "id": 12, "name": "Dr. White", "expertise": "Endocrinology", "city": "Boston" }
+    ]
+  }
+  
